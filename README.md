@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Virupakshappa%20Janadri&fontSize=42&fontColor=f0f6fc&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20Boston,%20MA&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Virupakshappa%20Janadri&fontSize=42&fontColor=f0f6fc&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20Boston,%20MA&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+distributed+systems+%26+real-time+apps;.NET+%7C+React+%7C+Python+%7C+Kubernetes+%7C+Cloud" alt="Typing SVG" /></a>
@@ -26,7 +26,7 @@
 ```yaml
 name: Virupakshappa Janadri
 alias: Viru
-role: Full Stack Software Engineer
+role: Software Development Engineer
 location: Boston, MA
 focus:
   - Distributed Systems & Microservices
@@ -81,16 +81,16 @@ focus:
 <div align="center">
 
 <a href="https://github.com/Virupakshappa/TradeLens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Virupakshappa&repo=TradeLens&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Virupakshappa&repo=TradeLens&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Virupakshappa/pubsub-visualiser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Virupakshappa&repo=pubsub-visualiser&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Virupakshappa&repo=pubsub-visualiser&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Virupakshappa/PatientDataApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Virupakshappa&repo=PatientDataApp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Virupakshappa&repo=PatientDataApp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/Virupakshappa/kubernetes-nifi-gitops">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Virupakshappa&repo=kubernetes-nifi-gitops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Virupakshappa&repo=kubernetes-nifi-gitops&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -100,14 +100,20 @@ focus:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Virupakshappa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virupakshappa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Virupakshappa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Virupakshappa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Virupakshappa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Virupakshappa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virupakshappa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=f0f6fc" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Virupakshappa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=f0f6fc" alt="GitHub Streak"/>
 </div>
 
 <br/>
